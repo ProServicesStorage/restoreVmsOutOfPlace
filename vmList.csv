@@ -1,0 +1,5 @@
+vmname,esx,datastore
+mysql,esx2.cv.lab,esx2_DR_Target
+JustATest,esx2.cv.lab,esx2_DR_Target
+vmwinsqldr,esx2.cv.lab,esx2_DR_Target
+NotARealVM,esx2.cv.lab,esx2_DR_Target
